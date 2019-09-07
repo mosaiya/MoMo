@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email">อีเมล์</string>
+    <string name="password">รหัสผา่าน</string>
+    <string name="login_to_your_account">เข้าสู่ระบบโดยบัญชีของคุณ</string>
+    <string name="don_t_have_an_account_register">ไม่มีรหัสของคุณ</string>
+    <string name="remember_password">จดจำรหัสผ่าน</string>
+    <string name="login">เข้าสู่ระบบ</string>
+    <string name="loginS">เข้าสู้ระบบเรียบร้อย</string>
+</resources>
